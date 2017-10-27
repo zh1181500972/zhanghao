@@ -10,7 +10,7 @@
 
 	<!-- 使用zookeeper注册中心暴露服务地址 -->
 	<!-- 注册中心地址 -->
-	<dubbo:registry protocol="zookeeper" address="localhost:2181" />
+	<dubbo:registry protocol="zookeeper" address="192.168.8.93:12181,192.168.8.93:12182,192.168.8.93:12183" />
 	
 	<!-- 用户服务接口 -->
 	<dubbo:reference interface="com.zhanghao.facate.service.PmsUserService" id="pmsUserService" check="false" />
