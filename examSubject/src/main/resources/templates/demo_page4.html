@@ -1,0 +1,44 @@
+
+<div class="pageContent">
+	<form method="post" action="addSubject" class="pageForm required-validate" onsubmit="return validateCallback(this, navTabAjaxDone);">
+		<div class="pageFormContent" layoutH="56">
+			<p>
+				<label>题目</label>
+				<input name="title" type="text" size="30" value="100001"/>
+			</p>
+			<p>
+				<label>课程名称</label>
+				<select class="combox" name="courseName">
+					<option value="all">请选择课程</option>
+					<option value="西方政治制度">西方政治制度</option>
+					<option value="领导科学">领导科学</option>
+					<option value="英语（二）">英语（二）</option>
+				</select>
+			</p>
+			<p>
+				<label>题目类型</label>
+				<select class="combox" name="typeName">
+					<option value="all">请选择题目类型</option>
+					<option value="单选题">单选题</option>
+					<option value="多选题">多选题</option>
+					<option value="简单题">简单题</option>
+				</select>
+			</p>
+			<p>
+			</p>
+			<p>
+				<label>内容</label>
+				<textarea class="editor" name="context" rows="24" cols="150"></textarea>
+			</p>
+		</div>
+		<div class="formBar">
+			<ul>
+				<!--<li><a class="buttonActive" href="javascript:;"><span>保存</span></a></li>-->
+				<li><div class="buttonActive"><div class="buttonContent"><button type="submit">保存</button></div></div></li>
+				<li>
+					<div class="button"><div class="buttonContent"><button type="button" class="close">取消</button></div></div>
+				</li>
+			</ul>
+		</div>
+	</form>
+</div>

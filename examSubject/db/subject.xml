@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subjects>
+	<subject id="44d73482-c46c-43a0-a7e3-db1b387c2f41">
+		<title>标题1</title>
+		<context>&lt;h3&gt;副本文本&lt;/h3&gt;</context>
+		<createDate>2017-10-19 01:59:09</createDate>
+		<updateDate/>
+		<courseName>数学</courseName>
+	</subject>
+	<subject id="fa30578f-e92b-490f-af52-4f91a316ed33">
+		<title>标题1</title>
+		<context>&lt;h3 style="color:red"&gt;副本文本&lt;/h3&gt;</context>
+		<createDate>2017-10-19 01:59:46</createDate>
+		<updateDate/>
+		<courseName>数学</courseName>
+	</subject>
+	<subject>
+		<title>其二</title>
+		<context>&lt;strong style="background-color: rgb(255, 102, 102);"&gt;大师傅的说法&lt;/strong&gt;</context>
+		<createDate>2017-10-20 05:00:52</createDate>
+		<updateDate/>
+		<courseName>西方政治制度</courseName>
+	</subject>
+	<subject>
+		<title>界面规范总体原则</title>
+		<context>&lt;strong style="background-color: rgb(255, 102, 102);"&gt;&lt;/strong&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style="font-family:宋体;color:rgb(79, 129, 189);font-size:13pt;"&gt;&lt;span style="font-family:宋体;"&gt;界面规范总体原则&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;&lt;span style="font-family:Calibri;font-size:11.0000pt;"&gt;1)&amp;nbsp;&lt;/span&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;&lt;span style="font-family:宋体;"&gt;以用户为中心。设计由用户控制的界面，而不是界面控制用户。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family:Calibri;font-size:11.0000pt;"&gt;2)&amp;nbsp;&lt;/span&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;&lt;span style="font-family:宋体;"&gt;简单且美观实用。界面应该很简单（不是过分单纯化）、易于学习、并且易于使用。每个页面简单明了，用户一看就能大概明白如何操作，不要有太多干忧用户视线的东西。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family:Calibri;font-size:11.0000pt;"&gt;3)&amp;nbsp;&lt;/span&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;&lt;span style="font-family:宋体;"&gt;清楚一致的设计。界面的风格保持一致，具有相同含义的术语保持一致，且易于理解。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family:Calibri;font-size:11.0000pt;"&gt;4)&amp;nbsp;&lt;/span&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;&lt;span style="font-family:宋体;"&gt;较快的响应速度。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;5)&amp;nbsp;&lt;/span&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;&lt;span style="font-family:宋体;"&gt;遵循&lt;/span&gt;&lt;/span&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;W3C&lt;span style="font-family:宋体;"&gt;标准，提高界面灵活度，&lt;/span&gt;&lt;/span&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;&lt;span style="font-family:宋体;"&gt;降低界面和程序的耦合度。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;6)&amp;nbsp;&lt;/span&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;UI组件化。组件分为功能组件和布局组件。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;7)&amp;nbsp;&lt;/span&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;&lt;span style="font-family:宋体;"&gt;规范化&lt;/span&gt;CSS样式文件。将CSS文件划分为CSS文件和子模块CSS文件。核心CSS中定义系统核心样式和公共样式。子模块CSS在核心CSS的基础上进行扩展，可以调整样式风格，并定义本模块特有的CSS。&lt;/span&gt;&lt;/p&gt;</context>
+		<createDate>2017-10-20 05:02:02</createDate>
+		<updateDate/>
+		<courseName>西方政治制度</courseName>
+	</subject>
+	<subject>
+		<title>我如何在项目中使用dwz?</title>
+		<context>&lt;strong style="background-color: rgb(255, 102, 102);"&gt;&lt;/strong&gt;&lt;h2&gt;&lt;strong&gt;&lt;span style="font-family:宋体;color:rgb(79, 129, 189);font-size:13pt;"&gt;&lt;span style="font-family:宋体;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;&lt;span style="font-family:宋体;"&gt;手册中有如下说明：&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;&lt;span style="font-family:宋体;"&gt;也就是说，只需要在一个页面（通常是起始页，如&lt;/span&gt;index.aspx/index.php&lt;span style="font-family:宋体;"&gt;）包含框架，这里的框架是指&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;demo&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;中&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;index.html&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;页面的所有元素（&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;&amp;lt;div class=&lt;/span&gt;&lt;/span&gt;&lt;span style="font-family:Calibri;font-size:11.0000pt;"&gt;”&lt;/span&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;page&lt;/span&gt;&lt;span style="font-family:Calibri;font-size:11.0000pt;"&gt;”&lt;/span&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;&lt;span style="font-family:宋体;"&gt;可自定义），完整的&lt;/span&gt;html&lt;span style="font-family:宋体;"&gt;结构。其它的页面只需要页面碎片，就是&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;&amp;lt;body&amp;gt;&amp;lt;/body&amp;gt;&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;中的部分。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;&lt;/span&gt;&lt;/p&gt;</context>
+		<createDate>2017-10-20 05:13:30</createDate>
+		<updateDate/>
+		<courseName>西方政治制度</courseName>
+	</subject>
+	<subject id="a040f443e1a6429d894335a2718d0c78">
+		<title>我如何解析json数据来重绘表格/页面</title>
+		<context>&lt;p&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;&lt;span style="font-family:宋体;"&gt;很多人不明白&lt;/span&gt;dwz&lt;span style="font-family:宋体;"&gt;的工作方式，认为&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;dwz&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;的&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;navTab&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;的页面看起来是&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;ajax&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;方式解析的，那就要从服务器传回&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;json&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;再手动解析。&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;dwz&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;事实上是这样工作得，只是他传回的不是一部分数据，而是整个页面，然后通过&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;JSON.eval()&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;加载到&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;navTab&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;上，这个过程对使用者是透明的，也即你不需要关心页面的数据处理，以前怎么写的页面，现在还是怎么写页面。&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;dwz&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;会将普通请求转换为&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;ajax&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;方式（前提是正确使用&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;dwz&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;提供的接口）。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</context>
+		<createDate>2017-10-20 05:15:46</createDate>
+		<updateDate/>
+		<courseName>西方政治制度</courseName>
+	</subject>
+	<subject id="bbe8f36a614d42889c4f23b1300b3479">
+		<title>如果不是传输数据，dwz的json是用于哪里？</title>
+		<context>&lt;p&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;dwz&lt;span style="font-family:宋体;"&gt;的服务器端响应上提到一个服务器端响应&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;json&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;，很多初学者问这个&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;json&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;如何传递数据，用于自己拼接页面等。如第&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;3&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;点所说，&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;dwz&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;的页面是不需要手动处理&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;ajax&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;的，这个&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;json&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;结构是对&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;ajax&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;表单提交、&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;ajax post&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;链接&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;(ajaxTodo)&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;状态的响应，而不涉及具体的页面数据。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;span style="font-family:宋体;font-size:11pt;"&gt;5&lt;span style="font-family:宋体;"&gt;、提交表单或者&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;ajax post&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;链接后，如何刷新本&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;navTab&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;？&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family:宋体;font-size:11.0000pt;"&gt;&lt;span style="font-family:宋体;"&gt;一定要记住在返回的&lt;/span&gt;json&lt;span style="font-family:宋体;"&gt;中加上要刷新的&lt;/span&gt;&lt;span style="font-family:Calibri;"&gt;navTabId&lt;/span&gt;&lt;span style="font-family:宋体;"&gt;。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</context>
+		<createDate>2017-10-20 05:19:42</createDate>
+		<updateDate></updateDate>
+		<courseName>西方政治制度</courseName>
+		<typaName>简单题</typaName>
+	</subject>
+</subjects>
